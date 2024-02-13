@@ -52,3 +52,6 @@ Sebelum Anda memulai, pastikan Anda telah menginstal hal berikut di sistem Anda:
 
 
 ### Image
+![alt text](https://github.com/destroylord/klasemen-test/blob/main/public/img/list-klasemen.png)
+![alt text](https://github.com/destroylord/klasemen-test/blob/main/public/img/tambah-skor.png)
+![alt text](https://github.com/destroylord/klasemen-test/blob/main/public/img/tambah-tim.png)
