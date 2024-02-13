@@ -49,3 +49,6 @@ Sebelum Anda memulai, pastikan Anda telah menginstal hal berikut di sistem Anda:
     ```bash
     php artisan serve
 10. Buka aplikasi pada browser: http://localhost:8000
+
+
+### Image
